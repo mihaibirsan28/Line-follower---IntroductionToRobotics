@@ -32,4 +32,4 @@ To achieve this we used PID, is a control loop mechanism employing feedback that
  <br>
  
  ### Video
- <a href =  "https://www.youtube.com/watch?v=YxQ3Y7-9uAM&t=12s&ab_channel=MihaiB%C3%AErsan"><img src = "assets/snake-game-matrix.jpeg"></a>
+ <a href =  "https://www.youtube.com/watch?v=Lc_LgxxVQkE&ab_channel=MihaiB%C3%AErsan"><img src = "assets/line-follower-2.jpeg"></a>
