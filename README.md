@@ -22,6 +22,10 @@ To achieve this we used PID, is a control loop mechanism employing feedback that
   <li> DC motors (2)
 </ul>  
 
+
+### Parameters
+- We map the error from sensors to [-30, 30] interval and apply PID with kp = 11, ki = 0, kd = 1, p = 1, i = 0, d = 0.
+
 <br>
  
  ### Image
