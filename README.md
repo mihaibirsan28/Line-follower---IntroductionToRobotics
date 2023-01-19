@@ -25,7 +25,9 @@ To achieve this we used PID, is a control loop mechanism employing feedback that
 <br>
  
  ### Image
- ![Snake-game](assets/snake-game-matrix.jpeg)
+ ![Line-follower1](assets/line-follower-1.jpeg)
+ 
+ ![Line-follower2](assets/line-follower-2.jpeg)
  
  <br>
  
