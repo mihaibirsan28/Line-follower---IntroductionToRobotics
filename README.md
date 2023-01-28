@@ -24,8 +24,21 @@ To achieve this we used PID, is a control loop mechanism employing feedback that
 
 
 ### Parameters
-- We map the error from sensors to [-30, 30] interval and apply PID with kp = 11, ki = 0, kd = 1, p = 1, i = 0, d = 0.
+- We did an automatic calibration of 10 seconds using the alternative start of the engines and after that we repositioned the line follower on the line.
+- We map the error from sensors to [-30, 30] interval and apply PID with kp = 11, ki = 0, kd = 1, p = 1, i = 0, d = 0 (we tried a lot of configuration until we get the best one which is the one that we used).
 
+
+### Context and details
+- We received the line follower kit.
+- We assembled it.
+- We programmed it to complete the course as fast as possible.
+
+
+### Results
+- The best time that out line follower get was 23.262s.
+
+### Our team name: Team Oltenia
+### I teamed up with <a href= "https://github.com/LSBogdan/Line-Follower">Bogdan Lolot</a> 
 <br>
  
  ### Image
